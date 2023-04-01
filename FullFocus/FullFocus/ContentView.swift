@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  FocusFlow
+//  FullFocus
 //
-//  Created by bekabeshka on 13.03.2023.
+//  Created by bekabeshka on 01.04.2023.
 //
 
 import SwiftUI
